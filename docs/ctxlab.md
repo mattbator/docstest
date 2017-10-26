@@ -1,4 +1,4 @@
-# Citrix XenDesktop on AHV 1.0 Lab
+# Citrix XenDesktop on AHV 1.1 Lab
 
 ## Novus sanguine manibus funeribus quod partim
 
