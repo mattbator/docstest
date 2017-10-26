@@ -1,4 +1,4 @@
-# DEV SQL Lab 1.1
+# PROD SQL Lab 1.1
 
 ## Novus sanguine manibus funeribus quod partim
 
