@@ -1,4 +1,5 @@
-site_name: Dev SQL Lab
+site_name: SQL V1.1 Lab
 pages:
-- About: sqllab.md
+- Home: index.md
+- SQL: sqllab.md
 theme: readthedocs
