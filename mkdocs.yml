@@ -2,4 +2,5 @@ site_name: Latest Prod Labs
 pages:
 - Home: index.md
 - SQL: sqllab.md
+- XenDesktop on AHV: ctxlab.md
 theme: readthedocs
